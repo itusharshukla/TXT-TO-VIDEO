@@ -29,9 +29,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN
+    api_id=23224960,
+    api_hash=1c2b9e241330afbcc449ef06e7ae1c32,
+    bot_token=7453992009:AAE2TgjTZI_yO0jG1kkDvObU1ZX0JCDP9Ss
 )
 
 photo = "https://i.postimg.cc/dVY9nL63/IMG-20250426-130510-655.jpg"
